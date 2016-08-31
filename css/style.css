@@ -194,6 +194,12 @@ margin : 0 auto;
 padding : 0 0 25px 0;
 text-align : center;
 }
+.title_sec h1 {
+color : #000000;
+font-size : 24px;
+text-transform : uppercase;
+letter-spacing : 1px;
+}
 .title_sec h2 {
 color : #606060;
 font-size : 12px;
